@@ -34,23 +34,23 @@ The compounded mixture must exhibit non-Newtonian, shear-thinning properties to 
 
 -   **Compounding Ratio:** The scrub team will compound the mixture at a strict **2.5 grams of powder to 1.0 mL of sterile saline (2.5 : 1)**. This achieves the necessary putty-like density without becoming too brittle to inject or too thin to maintain hemostasis.
 
-**5\. Phase 4: High-Pressure Applicator Specifications**
+**5\. Phase 4: High-Pressure Applicator Specifications (The Lynch-Hutchinson Integration)
 
-Commercial dispensing tubes are incompatible with the required pressure and sterility. Delivery requires a surgical-grade 60cc Toomey-Style Bone Paste Syringe featuring:
+To meet the pressure and sterility requirements of the 2.5:1 Ca-Mg-Zn matrix, generic dispensing tubes are strictly prohibited. Delivery will utilize specialized bone marrow applicators, originally developed for advanced intramedullary procedures and supplied via the Fred Hutchinson Cancer Center.
 
--   **Barrel Material:** Heavy-duty, medical-grade polycarbonate or polypropylene capable of withstanding high manual PSI without rupturing.
+-   **Hardware Profile:** The applicators feature a heavy-duty, medical-grade cannula capable of withstanding the high manual PSI required to extrude shear-thinning putty without warping.
 
--   **Tip Diameter:** A tapered catheter tip or wide-bore nozzle with a minimum inner diameter of 3.0mm to 4.0mm to prevent clogging of the 2.5:1 paste.
+-   **Tip and Cannula Diameter:** The applicators utilize a wide-bore surgical steel cannula that allows the thick 2.5:1 matrix to pass smoothly without clogging, ensuring precise, targeted delivery deep into the defect.
 
--   **Seal Integrity:** The plunger must utilize a double-wiping silicone O-ring to prevent "blow-by" and eliminate any vacuum effect that could draw blood back into the chamber.
+-   **Extrusion Mechanics:** The tightly fitted internal stylet/plunger ensures zero "blow-by" of the matrix, completely eliminating the vacuum effect that could otherwise draw blood or tissue back into the chamber during high-pressure application.
 
-**6\. Phase 5: Delivery and Hemostasis**
+**6\. Phase 5: Delivery and Hemostasis
 
--   The wide-bore nozzle is inserted directly to the bottom of the ballistic tract.
+-   **Insertion:** The steel cannula of the bone marrow applicator is inserted directly to the bottom of the visualized ballistic tract.
 
--   The 2.5:1 paste is injected continuously under high pressure until all venous and arterial bleeding within the bone ceases.
+-   **Pressurized Extrusion:** The 2.5:1 paste is injected continuously under high pressure. The rigid structure of the applicator allows the surgeon to maintain steady, uninterrupted force until all venous and arterial bleeding within the bone ceases.
 
--   An additional 50% volume is applied over the top of the tract to create a secure, undisturbed cap.
+-   **Withdrawal and Capping:** As the defect fills, the cannula is slowly withdrawn to prevent air pockets. An additional 50% volume is applied over the top of the tract to create a secure, undisturbed cap over the primary injury site.
 
 **7\. Phase 6: Structural Integrity Assessment (The Bouck Protocol)**
 
