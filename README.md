@@ -34,7 +34,7 @@ The compounded mixture must exhibit non-Newtonian, shear-thinning properties to 
 
 -   **Compounding Ratio:** The scrub team will compound the mixture at a strict **2.5 grams of powder to 1.0 mL of sterile saline (2.5 : 1)**. This achieves the necessary putty-like density without becoming too brittle to inject or too thin to maintain hemostasis.
 
-**5\. Phase 4: High-Pressure Applicator Specifications (The Lynch-Hutchinson Integration)
+**5\. Phase 4: High-Pressure Applicator Specifications (The Lynch-Hutchinson Integration)**
 
 To meet the pressure and sterility requirements of the 2.5:1 Ca-Mg-Zn matrix, generic dispensing tubes are strictly prohibited. Delivery will utilize specialized bone marrow applicators, originally developed for advanced intramedullary procedures and supplied via the Fred Hutchinson Cancer Center.
 
@@ -44,7 +44,7 @@ To meet the pressure and sterility requirements of the 2.5:1 Ca-Mg-Zn matrix, ge
 
 -   **Extrusion Mechanics:** The tightly fitted internal stylet/plunger ensures zero "blow-by" of the matrix, completely eliminating the vacuum effect that could otherwise draw blood or tissue back into the chamber during high-pressure application.
 
-**6\. Phase 5: Delivery and Hemostasis
+**6\. Phase 5: Delivery and Hemostasis**
 
 -   **Insertion:** The steel cannula of the bone marrow applicator is inserted directly to the bottom of the visualized ballistic tract.
 
